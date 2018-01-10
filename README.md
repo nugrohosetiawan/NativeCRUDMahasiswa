@@ -1,6 +1,6 @@
 # NativeCRUDMahasiswa
 NativeCRUDMahasiswa
 
-Using 
-*Native PHP
-*PHPMySQL
+*Using 
+-Native PHP
+-PHPMySQL
